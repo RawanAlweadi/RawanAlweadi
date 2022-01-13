@@ -28,4 +28,4 @@ Eğitim durumu : öğrenci<br>
 
 </body>
 </html>
-<meta / keywords= "htmal,leam.teach" >
+
