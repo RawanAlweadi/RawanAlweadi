@@ -25,6 +25,4 @@ microsift ofis programlari.<br><br>
 <h3>EĞETİM:</h3>
  20 LISESI,SAUDI ARABISTAN.<BR>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
-</center>
-</body>
-</html>
+
