@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Rawan wepsite </title>
+<title> Rawan website </title>
 </head>
 <body>
 
@@ -19,7 +19,7 @@ Email:rawanalwadiy@gmail.com<br><br>
 Ad Soyad: Rawan Alwadeai.<br>
 Doğum tarihi: 3/6/2002<br>
 Doğum yeri: Yemen<br>
-Eğetim durumu : öğrenci<br>
+Eğitim durumu : öğrenci<br>
 
 <h3>BILGISAYAR BILGILERI:</h3>
 microsift ofis programlari.<br><br>
@@ -30,7 +30,7 @@ microsift ofis programlari.<br><br>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
 
 </center>
-<a href="/me.html">rawan wep</a>
+<a href="/me.html">rawan web</a>
 
 </body>
 </html>
