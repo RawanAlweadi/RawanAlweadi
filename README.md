@@ -1,9 +1,7 @@
-<html>
-<body>
 
 
 <br><br>
-<center>
+
 <font face size="5" color="black">
 <h3>ÖZGEÇMİŞ.<br><h3>
 <img src="raw.pjg" height="150px" widht="150px"><br>
